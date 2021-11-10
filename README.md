@@ -1,6 +1,6 @@
 ### Hi there 👋, Gregg Cline
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://github.com/blackbelt797/blackbelt797/blob/main/LinkedInBanner.png)
 
 I'm Gregg, from California. I have a a great passion for technology. I'm currently aspiring to become a front end developer and change careers. I love all languages but primarily focusing on HTML, CSS, and JavaScript.
 
