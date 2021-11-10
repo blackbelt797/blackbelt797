@@ -12,10 +12,14 @@ I'm Gregg, from California. I have a a great passion for technology. I'm current
 - 🔭 I’m currently working on Becoming a Full Time Developer 
 - 🌱 I’m currently learning JavaScript 
 
+![Profile views](https://gpvc.arturio.dev/blackbelt797) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' color='white' alt='github' height='40'>](https://github.com/blackbelt797)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/greggcline/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/greggcline_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ggcline83)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blackbelt797)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/greggcline/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/greggcline_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ggcline83)  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbelt797&show_icons=true&theme=nightowl)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbelt797)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbelt797&show_icons=true&theme=nightowl)
-![Profile views](https://gpvc.arturio.dev/blackbelt797)  
+ 
