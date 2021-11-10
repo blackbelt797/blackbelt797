@@ -4,3 +4,4 @@ I'm Gregg, from California. I have a a great passion for technology. I'm current
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbelt797)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbelt797&show_icons=true)
