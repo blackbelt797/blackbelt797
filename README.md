@@ -1,11 +1,13 @@
 ### Hi there 👋, Gregg Cline
 
-I'm from California. I have a a great passion for technology. I'm changing careers from being a Land Surveyor/Photogrammitrist to Front End Developer. I love all languages but primarily focusing on HTML, CSS, and JavaScript.
+I'm from California. I have a a great passion for all technology. I'm constantly tinkering with a variety of things. I'm currently a Land Surveyor/Photogrammitrist and a freelance Front End Developer. Right now my primary focusing is on Font End. 
 
-##Skills: JS / HTML / CSS
+HTML, CSS, JavaScript and Vue.js are the Languages/ Frame Works I am currently most familiar with.
 
-## Framworks: Vue.js
+#Goals: Develope my Front End Skills then Back End skills to become well rounded.
 
-##Goals:
-- 🔭 I’m currently working on Becoming a Full Time Developer 
-- 🌱 Becomming a master with JavaScript 
+##Skills: JS / HTML / CSS / Vuejs
+
+
+
+
